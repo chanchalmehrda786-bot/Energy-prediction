@@ -26,7 +26,6 @@ The goal is to use data-driven insights to support smarter energy management and
 * **Pandas** – Data cleaning & transformation
 * **NumPy** – Numerical analysis
 * **Matplotlib / Seaborn / Plotly** – Data visualization
-* **Power BI (Optional)** – Interactive dashboard
 * **Jupyter Notebook**
 
 ---
@@ -78,32 +77,9 @@ Delhi-Energy-Analysis/
 │
 ├── data/                  # Raw and cleaned datasets
 ├── notebooks/             # Jupyter notebooks
-├── dashboard/             # Power BI or visualization files
+├── dashboard/             # visualization files
 ├── images/                # Charts and visuals
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🚀 How to Run This Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/delhi-energy-analysis.git
-```
-
-2. Install required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run Jupyter Notebook
-
-```bash
-jupyter notebook
+└── README.md
 ```
 
 ---
