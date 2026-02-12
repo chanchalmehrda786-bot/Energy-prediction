@@ -126,8 +126,7 @@ Feel free to fork this repository and submit a pull request.
 
 ## 📬 Contact
 
-**Author:** Chanchal Mehrda
-For any queries or suggestions, feel free to connect.
+**Author:** Chanchal
 
 ---
 
