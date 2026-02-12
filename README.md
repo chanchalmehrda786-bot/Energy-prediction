@@ -1,83 +1,79 @@
-⚡ Delhi Energy Consumption Analysis
-📌 Project Overview
+---
 
-This project analyzes Delhi’s energy consumption data to identify patterns, trends, and opportunities for reducing carbon emissions and improving energy efficiency.
+# ⚡ Delhi Energy Consumption Analysis
+
+## 📌 Project Overview
+
+This project analyzes **Delhi’s energy consumption data** to identify patterns, trends, and opportunities for reducing **carbon emissions** and improving **energy efficiency**.
 
 The goal is to use data-driven insights to support smarter energy management and sustainable decision-making.
 
-🎯 Objectives
+---
 
-Analyze historical energy consumption data
+## 🎯 Objectives
 
-Identify high-usage sectors and peak demand periods
+* Analyze historical energy consumption data
+* Identify high-usage sectors and peak demand periods
+* Detect inefficiencies in power usage
+* Estimate potential carbon emission reductions
+* Provide actionable insights for sustainable energy planning
 
-Detect inefficiencies in power usage
+---
 
-Estimate potential carbon emission reductions
+## 🛠️ Tools & Technologies Used
 
-Provide actionable insights for sustainable energy planning
+* **Python** 🐍
+* **Pandas** – Data cleaning & transformation
+* **NumPy** – Numerical analysis
+* **Matplotlib / Seaborn / Plotly** – Data visualization
+* **Power BI (Optional)** – Interactive dashboard
+* **Jupyter Notebook**
 
-🛠️ Tools & Technologies Used
+---
 
-Python 🐍
+## 📊 Project Workflow
 
-Pandas – Data cleaning & transformation
+1. **Data Collection**
 
-NumPy – Numerical analysis
+   * Gathered Delhi energy consumption dataset
 
-Matplotlib / Seaborn / Plotly – Data visualization
+2. **Data Cleaning & Preparation**
 
-Power BI (Optional) – Interactive dashboard
+   * Handled missing values
+   * Removed duplicates
+   * Converted date/time columns
+   * Standardized units
 
-Jupyter Notebook
+3. **Exploratory Data Analysis (EDA)**
 
-📊 Project Workflow
+   * Monthly & yearly consumption trends
+   * Sector-wise usage comparison
+   * Peak vs off-peak demand analysis
 
-Data Collection
+4. **Carbon Emission Estimation**
 
-Gathered Delhi energy consumption dataset
+   * Estimated emissions based on electricity usage
+   * Identified areas for reduction
 
-Data Cleaning & Preparation
+5. **Visualization & Dashboard**
 
-Handled missing values
+   * Created clear charts and graphs
+   * Built dashboard for decision-making
 
-Removed duplicates
+---
 
-Converted date/time columns
+## 📈 Key Insights
 
-Standardized units
+* Identified peak energy consumption months
+* Found high-demand sectors contributing most to emissions
+* Suggested energy-saving opportunities
+* Recommended renewable energy integration
 
-Exploratory Data Analysis (EDA)
+---
 
-Monthly & yearly consumption trends
+## 📂 Project Structure
 
-Sector-wise usage comparison
-
-Peak vs off-peak demand analysis
-
-Carbon Emission Estimation
-
-Estimated emissions based on electricity usage
-
-Identified areas for reduction
-
-Visualization & Dashboard
-
-Created clear charts and graphs
-
-Built dashboard for decision-making
-
-📈 Key Insights
-
-Identified peak energy consumption months
-
-Found high-demand sectors contributing most to emissions
-
-Suggested energy-saving opportunities
-
-Recommended renewable energy integration
-
-📂 Project Structure
+```
 Delhi-Energy-Analysis/
 │
 ├── data/                  # Raw and cleaned datasets
@@ -86,41 +82,55 @@ Delhi-Energy-Analysis/
 ├── images/                # Charts and visuals
 ├── README.md
 └── requirements.txt
+```
 
-🚀 How to Run This Project
+---
 
-Clone the repository
+## 🚀 How to Run This Project
 
+1. Clone the repository
+
+```bash
 git clone https://github.com/your-username/delhi-energy-analysis.git
+```
 
+2. Install required libraries
 
-Install required libraries
-
+```bash
 pip install -r requirements.txt
+```
 
+3. Run Jupyter Notebook
 
-Run Jupyter Notebook
-
+```bash
 jupyter notebook
+```
 
-🌱 Future Improvements
+---
 
-Integrate real-time energy data
+## 🌱 Future Improvements
 
-Apply Machine Learning for demand forecasting
+* Integrate real-time energy data
+* Apply Machine Learning for demand forecasting
+* Build a web-based interactive dashboard
+* Compare Delhi data with other metro cities
 
-Build a web-based interactive dashboard
+---
 
-Compare Delhi data with other metro cities
-
-🤝 Contribution
+## 🤝 Contribution
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
-📬 Contact
+---
 
-Author: Chanchal 
+## 📬 Contact
+
+**Author:** Chanchal Mehrda
+For any queries or suggestions, feel free to connect.
+
+---
 
 
-If you want, I can also:
+* Add **badges and GitHub styling**
+* Write a strong LinkedIn project description** 🚀
