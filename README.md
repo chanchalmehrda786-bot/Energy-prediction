@@ -124,12 +124,3 @@ Feel free to fork this repository and submit a pull request.
 
 ---
 
-## 📬 Contact
-
-**Author:** Chanchal
-
----
-
-
-* Add **badges and GitHub styling**
-* Write a strong LinkedIn project description** 🚀
